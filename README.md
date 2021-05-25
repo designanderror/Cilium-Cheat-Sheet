@@ -1,4 +1,4 @@
-# Cilium-Cheat-Sheet
+# Cilium Installation
 
 This repository contains Installation of Cilium using Minikube Cluster in Ubuntu. 
 
